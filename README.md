@@ -14,9 +14,12 @@ Time spent: **4** hours
 
 ## Results
 
-- The honeypot collected a total of **7850** attacks.
-- Unfortunately, no malware samples were found. :(
+- My honeypot collected a total of **7891** attacks.
+- Unfortunately, no malware samples were found. :disappointed:
 - View my session.json [here](https://raw.githubusercontent.com/caitthecaptain/Codepath-Week-9/master/session.json)!
+
+![](https://github.com/caitthecaptain/Codepath-Week-9/blob/master/honeypotstats.PNG)
+![](https://github.com/caitthecaptain/Codepath-Week-9/blob/master/honeypotreport.PNG)
 
 
 ## Issues
