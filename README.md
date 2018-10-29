@@ -2,7 +2,7 @@
 
 Time spent: **4** hours
 
-> Objective: To setup and deploy a honeypot.
+> Objective: To set up and deploy a honeypot.
 
 ## Summary
 
@@ -16,14 +16,14 @@ Time spent: **4** hours
 
 - The honeypot collected a total of **7850** attacks.
 - Unfortunately, no malware samples were found. :(
-- View my session.json [here]!(https://raw.githubusercontent.com/caitthecaptain/Codepath-Week-9/master/session.json).
+- View my session.json [here](https://raw.githubusercontent.com/caitthecaptain/Codepath-Week-9/master/session.json)!
 
 
 ## Issues
 
-- I had an issue with the Codepath steps for creating my MHN. I found the correct answer [here]. (https://github.com/RedolentSun/mhn)
+- I had an issue with the Codepath steps for creating my MHN. I found the correct answer [here](https://github.com/RedolentSun/mhn).
 - I had an issue with being able to access the MHN VM via my browser. To fix this, I edited my firewall rules to allow traffic on TCP port 80.
 
 
 ## References
-- [Google Cloud Platform] was used for my virtual machines (https://cloud.google.com/free/docs/frequently-asked-questions)
+- [Google Cloud Platform](https://cloud.google.com/free/docs/frequently-asked-questions) was used for my virtual machines.
